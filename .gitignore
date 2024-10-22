@@ -1,0 +1,6 @@
+# steam stuff
+*.vdf
+# ignore all
+*.zip
+# unignore our big ol save
+!SPACE BOYS.zip
